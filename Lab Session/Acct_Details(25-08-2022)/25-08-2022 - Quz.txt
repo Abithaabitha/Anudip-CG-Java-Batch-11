@@ -1,0 +1,4 @@
+1. Write a program bank details using interface 
+
+
+
